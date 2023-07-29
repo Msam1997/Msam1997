@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Madhurupa Samaddar. I am currently pursuing my Master's in Computer Science at Indiana University Bloomington. I am passionate about software development and enjoy learning new languages and skills.
 <!--
 **Msam1997/Msam1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
