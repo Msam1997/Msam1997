@@ -4,7 +4,7 @@ I am Madhurupa Samaddar. I am currently pursuing my Master's in Computer Science
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
-<a href="https://www.linkedin.com/in/madhurupa_samaddar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhurupa's Linkedin profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madhurupa-samaddar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhurupa's Linkedin profile" height="30" width="40" /></a>
 </p>
 <br/>
 
