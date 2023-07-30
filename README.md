@@ -4,7 +4,7 @@ I am Madhurupa Samaddar. I am currently pursuing my Master's in Computer Science
 
 ##  I’m currently learning
 
-[![My Skills](https://skills.thijs.gg/icons?i=,react,nodejs,firebase&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,firebase&theme=light)](https://skills.thijs.gg)
 
 
 ## Languages and tools
