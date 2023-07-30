@@ -2,6 +2,10 @@
 
 I am Madhurupa Samaddar. I am currently pursuing my Master's in Computer Science at Indiana University Bloomington. I am passionate about software development and enjoy learning new languages and skills.
 
+##  I’m currently learning
+
+[![My Skills](https://skills.thijs.gg/icons?i=,react,nodejs,firebase&theme=light)](https://skills.thijs.gg)
+
 
 ## Languages and tools
 
