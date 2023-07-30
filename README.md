@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
 I am Madhurupa Samaddar. I am currently pursuing my Master's in Computer Science at Indiana University Bloomington. I am passionate about software development and enjoy learning new languages and skills.
+
+
+## Languages and tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=py,html,php,js,css,react,c,cpp,mysql,r,mongodb,postgre&theme=light)](https://skills.thijs.gg)
 <!--
 **Msam1997/Msam1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
