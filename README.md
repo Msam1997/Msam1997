@@ -2,6 +2,12 @@
 
 I am Madhurupa Samaddar. I am currently pursuing my Master's in Computer Science at Indiana University Bloomington. I am passionate about software development and enjoy learning new languages and skills.
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
+<p align="left">
+<a href="https://www.linkedin.com/in/madhurupa_samaddar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhurupa's Linkedin profile" height="30" width="40" /></a>
+</p>
+<br/>
+
 ##  I’m currently learning
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,firebase&theme=light)](https://skills.thijs.gg)
