@@ -15,7 +15,7 @@ I am Madhurupa Samaddar. I am currently pursuing my Master's in Computer Science
 
 ## Languages and tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,php,js,css,react,c,cpp,mysql,r,mongodb,postgre&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,html,php,js,css,react,mysql,mongodb,postgre&theme=light)](https://skills.thijs.gg)
 <!--
 **Msam1997/Msam1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
