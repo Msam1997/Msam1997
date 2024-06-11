@@ -10,7 +10,7 @@ I am Madhurupa Samaddar. I am currently pursuing my Master's in Computer Science
 
 ##  I’m currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=react,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=reactnative,nodejs,gradlefirebase&theme=dark)](https://skillicons.dev)
 
 
 ## Languages and tools
